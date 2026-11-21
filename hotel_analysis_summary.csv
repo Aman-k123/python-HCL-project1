@@ -1,0 +1,87 @@
+section,category,metric,value
+Overall,All,Total bookings,1200
+Overall,All,Cancelled bookings,342
+Overall,All,Successful bookings,858
+Overall,All,Cancellation rate (%),28.5
+Overall,All,Average length of stay (nights),5.55
+Overall,All,Average daily rate,110.24
+Month,January,Bookings,58
+Month,January,Cancelled,19
+Month,January,Cancellation rate (%),32.76
+Month,February,Bookings,68
+Month,February,Cancelled,21
+Month,February,Cancellation rate (%),30.88
+Month,March,Bookings,75
+Month,March,Cancelled,18
+Month,March,Cancellation rate (%),24
+Month,April,Bookings,105
+Month,April,Cancelled,35
+Month,April,Cancellation rate (%),33.33
+Month,May,Bookings,124
+Month,May,Cancelled,39
+Month,May,Cancellation rate (%),31.45
+Month,June,Bookings,140
+Month,June,Cancelled,27
+Month,June,Cancellation rate (%),19.29
+Month,July,Bookings,152
+Month,July,Cancelled,51
+Month,July,Cancellation rate (%),33.55
+Month,August,Bookings,116
+Month,August,Cancelled,35
+Month,August,Cancellation rate (%),30.17
+Month,September,Bookings,103
+Month,September,Cancelled,23
+Month,September,Cancellation rate (%),22.33
+Month,October,Bookings,97
+Month,October,Cancelled,24
+Month,October,Cancellation rate (%),24.74
+Month,November,Bookings,83
+Month,November,Cancelled,28
+Month,November,Cancellation rate (%),33.73
+Month,December,Bookings,79
+Month,December,Cancelled,22
+Month,December,Cancellation rate (%),27.85
+Hotel,City Hotel,Bookings,735
+Hotel,City Hotel,Cancelled,202
+Hotel,City Hotel,Cancellation rate (%),27.48
+Hotel,Resort Hotel,Bookings,465
+Hotel,Resort Hotel,Cancelled,140
+Hotel,Resort Hotel,Cancellation rate (%),30.11
+Market segment,Online TA,Bookings,594
+Market segment,Online TA,Cancelled,185
+Market segment,Online TA,Cancellation rate (%),31.14
+Market segment,Direct,Bookings,268
+Market segment,Direct,Cancelled,71
+Market segment,Direct,Cancellation rate (%),26.49
+Market segment,Groups,Bookings,163
+Market segment,Groups,Cancelled,38
+Market segment,Groups,Cancellation rate (%),23.31
+Market segment,Corporate,Bookings,101
+Market segment,Corporate,Cancelled,28
+Market segment,Corporate,Cancellation rate (%),27.72
+Market segment,Offline TA,Bookings,74
+Market segment,Offline TA,Cancelled,20
+Market segment,Offline TA,Cancellation rate (%),27.03
+Customer type,Transient,Bookings,828
+Customer type,Transient,Cancelled,245
+Customer type,Transient,Cancellation rate (%),29.59
+Customer type,Transient-Party,Bookings,265
+Customer type,Transient-Party,Cancelled,73
+Customer type,Transient-Party,Cancellation rate (%),27.55
+Customer type,Contract,Bookings,71
+Customer type,Contract,Cancelled,17
+Customer type,Contract,Cancellation rate (%),23.94
+Customer type,Group,Bookings,36
+Customer type,Group,Cancelled,7
+Customer type,Group,Cancellation rate (%),19.44
+Lead time (days),Not cancelled,Mean,83.6
+Lead time (days),Not cancelled,Median,71
+Lead time (days),Not cancelled,Q1,40
+Lead time (days),Not cancelled,Q3,112
+Lead time (days),Cancelled,Mean,106
+Lead time (days),Cancelled,Median,89.5
+Lead time (days),Cancelled,Q1,56
+Lead time (days),Cancelled,Q3,138.5
+Revenue,Successful,Estimated revenue,521964.02
+Revenue,Cancelled,Estimated revenue,208948.37
+Revenue,Total,Estimated revenue,730912.39
